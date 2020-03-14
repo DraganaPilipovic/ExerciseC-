@@ -1,0 +1,6 @@
+C:\Users\Operater\source\repos\Variables\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Users\Operater\source\repos\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\Operater\source\repos\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\Operater\source\repos\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\Operater\source\repos\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\Operater\source\repos\Variables\Variables\obj\Debug\Variables.pdb
