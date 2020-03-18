@@ -10,8 +10,8 @@ namespace TypeConversion
     {
         static void Main(string[] args)
         {
-            int i = 1;
-            byte b = (byte) i;
+            var number = "1234";
+            byte b = Convert.ToByte(number);
             Console.WriteLine(b);
         }
     }
